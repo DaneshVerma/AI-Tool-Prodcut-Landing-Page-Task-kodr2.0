@@ -54,7 +54,7 @@ export default function Pricing() {
                   </li>
                 ))}
               </ul>
-              <button className="w-full py-2 bg-indigo-500 text-white rounded-lg hover:bg-indigo-600 transition">
+              <button className="w-full cursor-pointer py-2 bg-indigo-500 text-white rounded-lg hover:bg-indigo-600 transition">
                 Get Started
               </button>
             </motion.div>
